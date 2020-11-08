@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23859855-3912-4013-bc7a-b2f1b54265ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/FE learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Symfony.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cauldron_overflow" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cauldron_overflow/assets/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cauldron_overflow/assets/styles/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cauldron_overflow/config/packages/assets.yaml" afterDir="false" />
@@ -17,15 +11,8 @@
       <change afterPath="$PROJECT_DIR$/cauldron_overflow/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cauldron_overflow/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cauldron_overflow/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/.idea/loginPHP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/login/src/login/login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/login/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/login/src/services/PostData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/login/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cauldron_overflow" beforeDir="false" afterPath="$PROJECT_DIR$/cauldron_overflow" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cauldron_overflow/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/cauldron_overflow/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cauldron_overflow/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/cauldron_overflow/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cauldron_overflow/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/cauldron_overflow/composer.lock" afterDir="false" />
@@ -36,6 +23,8 @@
       <change beforePath="$PROJECT_DIR$/cauldron_overflow/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/cauldron_overflow/symfony.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cauldron_overflow/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/cauldron_overflow/templates/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cauldron_overflow/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/cauldron_overflow/templates/question/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScript/loginPHP/login/src/login/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/login/src/login/login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScript/loginPHP/login/src/services/PostData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TypeScript/loginPHP/login/src/services/PostData.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604764330640</updated>
       <workItem from="1604764333368" duration="1565000" />
-      <workItem from="1604766068259" duration="15465000" />
+      <workItem from="1604766068259" duration="15773000" />
     </task>
     <servers />
   </component>
