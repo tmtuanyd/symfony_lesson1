@@ -9,6 +9,8 @@
       <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/doctrine/annotations" />
       <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/knplabs/knp-markdown-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/michelf/php-markdown" />
       <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/psr/cache" />
       <excludeFolder url="file://$MODULE_DIR$/cauldron_overflow/vendor/psr/container" />

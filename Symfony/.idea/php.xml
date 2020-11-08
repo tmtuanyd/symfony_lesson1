@@ -55,6 +55,8 @@
       <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/monolog-bridge" />
       <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/asset" />
       <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/webpack-encore-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/knplabs/knp-markdown-bundle" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
