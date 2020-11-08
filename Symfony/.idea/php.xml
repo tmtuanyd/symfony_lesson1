@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/composer" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/cauldron_overflow/vendor/symfony/webpack-encore-bundle" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+</project>
